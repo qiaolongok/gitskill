@@ -17,3 +17,4 @@ deploy_key_rsa
 
 #c++
 *.exe
+#在远程加一个注释
